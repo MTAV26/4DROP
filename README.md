@@ -32,9 +32,9 @@ The following reference shows the data applied as predictors of 4DROP.
 | Dataset  | Source |
 | :------------ |:---------------|
 | CAMS\_OPI | http://www.cpc.ncep.noaa.gov/products/global_precip/html/wpage.cams_opi.html       |
-| CHIRPS      | http://chg.geog.ucsb.edu/data/chirps/        |
+| CHIRPS v.2     | http://chg.geog.ucsb.edu/data/chirps/        |
 | CPC | https://www.esrl.noaa.gov/psd/data/gridded/data.cpc.globalprecip.html        |
-| ERA5  | https://www.ecmwf.int/en/forecasts/datasets/archive-datasets/reanalysis-datasets/era5      |
+| ERA5 (ensemble mean) | https://www.ecmwf.int/en/forecasts/datasets/archive-datasets/reanalysis-datasets/era5      |
 | GPCC  | https://www.dwd.de/EN/ourservices/gpcc/gpcc.html      |
 | GPCP (V2.3)      | http://eagle1.umd.edu/GPCP_ICDR/Data/ |
 | JRA-55  | http://jra.kishou.go.jp/JRA-55/index_en.html      |
