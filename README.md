@@ -13,7 +13,7 @@ Before delving into the different buttons within the interface, it's essential t
 <br/>
 <br/>
 <p align="center">
-  <img src="www/images/drought_matrix_levels.png" width="450" title="hover text">
+  <img src="https://github.com/MTAV26/4DROP/blob/main/WarningLevels.png" width="450" title="hover text">
 </p>
 <br/>
 For instance, the color yellow could reflect both a high probability of abnormally dry conditions and a low probability of severe drought. This approach is based on the disaster management guidelines of the European Commission (EC, 2010).
