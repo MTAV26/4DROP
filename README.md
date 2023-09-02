@@ -8,7 +8,7 @@ Before delving into the different buttons within the interface, it's essential t
 <br/>
 - *MEAN (Average)*: Displays the values of the SPI index, which help identify wet periods (positive values) and dry periods (negative values) in comparison to long-term climatic conditions in different regions. This is useful for quantifying drought conditions and providing a response during drought episodes.
 - *SPREAD (Dispersion)*: Provides an estimate of uncertainty. High dispersion values indicate significant uncertainty, suggesting that both normal and drought conditions may be equally probable. This highlights the challenge faced by monitoring and alert systems.
-- *PROB (Probability)*: Shows the total probability of experiencing (at least) moderate drought (SPI ≤ -0.8), offering a more detailed representation of uncertainty and being useful for experienced users.
+- *PROB (Probability)*: Shows the total probability of experiencing (at least) moderate drought (SPI ≤ -0.8; Svoboda et al., 2002), offering a more detailed representation of uncertainty and being useful for experienced users.
 - *TRAF_LIG (SPI Warning Level)*: This map is designed to allow users to distinguish between severe droughts with a high probability and mild droughts with a low probability. In other words, the colors indicate a combination of probability and severity, as explained in the table below:
 <br/>
 <br/>
@@ -62,11 +62,12 @@ A.H-M thanks his predoctoral contract FPU18/00824 to the Ministerio de Ciencia, 
 M.T. acknowledges funding bythe Spanish Ministry of Science, Innovation and Universities through the Ramón y Cajal Grant Reference RYC2019-027115-I and through the projectONFIRE, grant
 PID2021-123193OB-I00, funded by MCIN/AEI/10.13039/501100011033 and by "ERDF Away ofmaking Europe". 
 
-
 ### References
 EC, 2010. Commission staff working paper: Risk assessment and mapping guide-lines for disaster management. EC Rep. SEC (2010) 1626, 43 pp
 
 McKee, T. B., Doesken, N. J., & Kleist, J. (1993, January). The relationship of drought frequency and duration to time scales. In Proceedings of the 8th Conference on Applied Climatology (Vol. 17, No. 22, pp. 179-183).
+
+Svoboda, M., LeComte, D., Hayes, M., Heim, R., Gleason, K., Angel, J., ... & Stephens, S. (2002). The drought monitor. Bulletin of the American Meteorological Society, 83(8), 1181-1190.
 
 Torres-Vázquez, M. Á., Halifa-Marín, A., Montávez, J. P., & Turco, M. (2023). High resolution monitoring and probabilistic prediction of meteorological drought in a Mediterranean environment. Weather and Climate Extremes, 40, 100558.
 
@@ -81,3 +82,5 @@ Turco, M., Marcos-Matamoros, R., Castro, X., Canyameras, E., & Llasat, M. C. (20
 <a href="http://cran.r-project.org/web/packages/shiny" target="_blank_">shiny</a>: Chang, W., Cheng J., Allaire, J.J., Xie, Y. & McPherson, J. (2013). shiny: Web Application Framework for R. R package version 1.7.5
 
 <a href="http://cran.r-project.org/web/packages/shinydashboard" target="_blank_">shinydashboard</a>: Chang, W. (2015). shinydashboard: Create Dashboards with Shiny. R package version 0.7.2
+
+
