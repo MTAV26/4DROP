@@ -46,7 +46,7 @@ The following reference shows the data applied as predictors of 4DROP.
 <br/>
 <br/>
 
-
+In the case of the SEAS5-related data, they are available through the Copernicus Climate Data Store. To obtain this data, access can be gained through the following web link: [https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset).
 
 ### Source data
 4DROP is available at https://github.com/MTAV26/4DROP/tree/main/data from January 1981 to December 2022. The files were created in NetCDF format following the Climate metadata standards.
