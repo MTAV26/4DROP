@@ -126,14 +126,14 @@ for (isc in 1:length(time_scale)) {
           y <- data[i, j, OK]
           n <- length(x)
           #if (n >= anniok * 12) {
-          if (n >= nt*0.9) {
+          #if (n >= nt*0.9) {
             
             dum = CorrMIO((x), (y), method = 'pearson', pval = TRUE)
             corre[i, j] = as.numeric(dum)[1]
             pvalue[i, j] <- as.numeric(dum)[4]
             rm(dum)
             
-          }
+          #}
           
           
           OK1 <- complete.cases(ens[i, j,], data[i, j,])
@@ -141,7 +141,7 @@ for (isc in 1:length(time_scale)) {
           y1 <- data[i, j, OK1]
           n1 <- length(x1)
           #if (n >= anniok * 12) {
-          if (n1 >= nt*0.9) {
+          #if (n1 >= nt*0.9) {
             
             x1d = as.vector(detrend(x1, tt = 'linear', bp = c()))
             y1d = as.vector(detrend(y1, tt = 'linear', bp = c()))
@@ -150,7 +150,7 @@ for (isc in 1:length(time_scale)) {
             corre_det[i, j] = as.numeric(dum)[1]
             pvalue_det[i, j] <- as.numeric(dum)[4]
             rm(dum)
-          }
+          #}
           
           rm(OK, n, x, y, x1d, y1d, x1, y1, n1)
         }
