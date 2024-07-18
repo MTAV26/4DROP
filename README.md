@@ -102,13 +102,12 @@ Scripts for data preparation and cleaning.
 In the "cammon" folder, you will find additional script files that are useful for the execution of the main script files described above. This folder corresponds to the .R files for DROP (Turco et al., 2020).
 
 ### Citation
-Torres-Vázquez, M. Á., Di Giuseppe. F., Dutra. E., Halifa-Marín, A., Jérez. S., Ramón, J., Montávez, J. P., Doblas-Reyes. F., & Turco, M. (Under Review). Probabilistic predictions for meteorological droughts based on multi initial conditions.Journal of Hydrology.
+Torres-Vázquez, M. Á., Di Giuseppe, F., Dutra, E., Halifa-Marín, A., Jerez, S., Ramón, J., Montávez, J. P., Doblas-Reyes, F. J., & Turco, M. (2024). Probabilistic predictions for meteorological droughts based on multi-initial conditions. Journal Of Hydrology, 131662. https://doi.org/10.1016/j.jhydrol.2024.131662
 
 ### Acknowledgments
 A.H-M thanks his predoctoral contract FPU18/00824 to the Ministerio de Ciencia, Innovación y Universidades of Spain.
 
-M.T. acknowledges funding bythe Spanish Ministry of Science, Innovation and Universities through the Ramón y Cajal Grant Reference RYC2019-027115-I and through the projectONFIRE, grant
-PID2021-123193OB-I00, funded by MCIN/AEI/10.13039/501100011033 and by "ERDF Away ofmaking Europe". 
+M.A.T-V., S.J., and M.T. acknowledge the support of the ONFIRE project, grant PID2021-123193OB-I00, funded by MCIN/AEI/10.13039/501100011033 and by “ERDF A way of making Europe”. A.H-M thanks his predoctoral contract FPU18/00824 to the Ministerio de Ciencia, Innovación y Universidades of Spain. M.T. acknowledges funding by the Spanish Ministry of Science, Innovation and Universities through the Ramón y Cajal Grant Reference RYC2019-027115-I.
 
 ### References
 EC, 2010. Commission staff working paper: Risk assessment and mapping guide-lines for disaster management. EC Rep. SEC (2010) 1626, 43 pp
