@@ -49,7 +49,7 @@ The following reference shows the data applied as predictors of 4DROP.
 | GPCC  | https://www.dwd.de/EN/ourservices/gpcc/gpcc.html      |
 | GPCP (V2.3)      | http://eagle1.umd.edu/GPCP_ICDR/Data/ |
 | JRA-55  | http://jra.kishou.go.jp/JRA-55/index_en.html      |
-| MERRA2  | https://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis2.html      |
+| MERRA2  | https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/data_access/      |
 | MSWEP | https://www.gloh2o.org/mswep/       |
 | NCEP  | https://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis2.html     |
 | PREC/L | https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html       |
